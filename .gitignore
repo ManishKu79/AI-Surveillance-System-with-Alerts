@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Logs and database
+logs/
+*.db
+
+/known_faces
+/known_faces/
+
+saved_faces/
+/saved_faces
+# Evidence images (large files)
+evidence/
+
+# Models (optional, if large)
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
